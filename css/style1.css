@@ -1,0 +1,25 @@
+.nav-link {
+	color: #FFF224 !important;
+	font-weight: bold !important;
+	text-shadow: -2px 2px #000000 !important;
+}
+
+.nav-link:hover {
+	background-color: white;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+	background-color: #54b4e6 !important;
+}
+.navbar-brand {
+	font-size: 26px !important;
+	color: #FFF224 !important;
+	font-weight: bold !important;
+	text-shadow: -2px 2px #000000 !important;
+	font-family: 'Rock Salt', cursive;
+
+}
+
+body{
+	background-image: url("../img/back.png") !important;
+}
