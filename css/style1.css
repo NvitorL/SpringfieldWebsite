@@ -19,6 +19,9 @@
 	font-family: 'Rock Salt', cursive;
 
 }
+.card {
+	margin: 20px;
+}
 
 body{
 	background-image: url("../img/back.png") !important;
