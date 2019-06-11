@@ -21,6 +21,8 @@
 }
 .card {
 	margin: 20px;
+	text-align: justify;
+	border: 5px solid #000000;
 }
 
 body{
