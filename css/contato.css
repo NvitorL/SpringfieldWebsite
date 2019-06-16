@@ -1,0 +1,27 @@
+.container.rounded.my-auto {
+	background-color: #FFFFFF;
+    padding-bottom: 10px;
+    border: 2px solid #000000;
+    margin: 65px auto 10px auto !important;
+}
+
+h1 {
+	color: #FFF224;
+	text-shadow: -2px 2px #000000 !important;
+}
+
+.form-control {
+	background-color: #54b4e6;
+	border: 1px solid;
+	color: white;
+}
+
+.form-control::placeholder {
+	color: white;
+}
+
+.btn.btn-primary {
+	border: 1px solid black;
+	color: black;
+	background-color: #FFF224;
+}

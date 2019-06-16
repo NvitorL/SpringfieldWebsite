@@ -8,9 +8,10 @@
 	background-color: white;
 }
 
-.navbar.navbar-expand-lg.navbar-light.bg-light{
+.navbar.navbar-expand-lg.navbar-light.fixed-top{
 	background-color: #54b4e6 !important;
 }
+
 .navbar-brand {
 	font-size: 26px !important;
 	color: #FFF224 !important;
@@ -27,4 +28,9 @@
 
 body{
 	background-image: url("../img/back.png") !important;
+}
+
+.footer.py-2 {
+	background-color: yellow;
+	color: black !important;
 }
