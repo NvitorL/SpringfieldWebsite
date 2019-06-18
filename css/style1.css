@@ -20,9 +20,19 @@
 	font-family: 'Rock Salt', cursive;
 
 }
+.card-header {
+	background-color: #FFFFFF;
+	text-align: center;
+
+}
+
+.btn.btn-link {
+	color:  #54b4e6;
+}
+
 .card {
 	margin: 20px;
-	text-align: justify;
+	text-align: center;
 	border: 5px solid #000000;
 }
 
