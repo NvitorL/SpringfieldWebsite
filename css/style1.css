@@ -41,6 +41,11 @@ body{
 	margin: 65px auto 50px auto !important;
 }
 
+h1 {
+	color: #FFF224 !important;
+	font-weight: bold !important;
+	text-shadow: -2px 2px #000000 !important;
+}
 .footer.fixed-bottom {
 	background-color: yellow;
 	color: black !important;
