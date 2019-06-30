@@ -36,6 +36,12 @@
 	border: 5px solid #000000;
 }
 
+.img-thumbnail {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+}
+
 body{
 	background-image: url("../img/back.png") !important;
 	margin: 65px auto 50px auto !important;
@@ -46,6 +52,7 @@ h1 {
 	font-weight: bold !important;
 	text-shadow: -2px 2px #000000 !important;
 }
+
 .footer.fixed-bottom {
 	background-color: yellow;
 	color: black !important;
